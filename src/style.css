@@ -327,6 +327,7 @@ button:focus {
   position: relative;
   padding-bottom: 70px !important;
   padding-top: 70px !important;
+  background-color: #1a0020;
 }
 
 .home-about-description {
@@ -390,7 +391,7 @@ button:focus {
 
 .home-social-icons:hover {
   color: #87209e;
-  box-shadow: 0 0 5px #87209e;
+  box-shadow: 0 0 15px #ec95ff;
   text-shadow: 0 0 2px #87209e;
 }
 
