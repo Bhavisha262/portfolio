@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Html, Css , Javascript and React. </b>
+                <b className="purple"> Html, Css , Javascript, React and Express JS </b>
               </i>
               <br />
               <br />
@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Websites and giving vibrancy to them </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  React.
+                  HTML, CSS, React
                 </b>
               </i>
               <br />
@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js and Express.js</b>
               </i>
             </p>
           </Col>
